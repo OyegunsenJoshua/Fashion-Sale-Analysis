@@ -1,6 +1,6 @@
 # Fashion_Sale_Analysis
 
-This Analysis Comprises of products ranked from the highest sales to the lowest sales prior to customer order over years in a retail outlet. I was hereby able to forecast the highest and lowest sold products over the year "2022 and 2023". With reference to this analysis,i was able to bridge a gap between the best selling products over the two years.
+This Analysis Comprises of products ranked from the highest sales to the lowest sales prior to customer order over years in a retail outlet. I was hereby able to forecast the highest and lowest sold products over the year "2022 and 2023". With reference to this analysis, i was able to bridge a gap between the best selling products over the two years.
 
 # Project Overview
 
