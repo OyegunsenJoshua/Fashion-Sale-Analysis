@@ -45,3 +45,6 @@ Based on this analysis, we recommended these Procedures:
 - Exceptional Customer Service: Provide personalized service and a seamless shopping experience to foster customer retention.
 
 - References - Kaggle.Com
+
+
+  <img src="https://github.com/user-attachments/assets/6f0582d9-36f2-4355-a5e7-af50b4719fe3" width="400" height="250" alt="Image">
