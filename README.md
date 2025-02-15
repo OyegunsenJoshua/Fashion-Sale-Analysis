@@ -1,4 +1,4 @@
-# Fashion_Sale_Analysis
+# Fashion_Sales_Analysis
 
 This Analysis Comprises of products ranked from the highest sales to the lowest sales prior to customer order over years in a retail outlet. I was hereby able to forecast the highest and lowest sold products over the year "2022 and 2023". With reference to this analysis, I was able to bridge a gap between the best and few selling products over the years.
 
@@ -43,8 +43,5 @@ Based on this analysis, we recommended these Procedures:
 - Online Presence and E-Commerce: Expand your reach beyond physical limitations with a robust online presence and e-commerce platform.
 
 - Exceptional Customer Service: Provide personalized service and a seamless shopping experience to foster customer retention.
-
-- ![Retail Dashboard Photo](https://github.com/user-attachments/assets/6f0582d9-36f2-4355-a5e7-af50b4719fe3)
-
 
 - References - Kaggle.Com
