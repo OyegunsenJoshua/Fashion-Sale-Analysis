@@ -7,7 +7,7 @@ This Analysis Comprises of products ranked from the highest sales to the lowest 
 The aim of my Analysis on this project is to analyze this fashion store's database to identify patterns,trends, and insights that can inform business growth and decison.
 
 # Data Sources
--E -Commerce Data: The primary deta set used for this survey "Retaial-SuperStore" file, contains detailed information of a store's overall actvity in the United States of America.
+- E - Commerce Data: The primary deta set used for this survey "Retaial-SuperStore" file, contains detailed information of a store's overall actvity in the United States of America.
 
 # Tools
 The following tools helped in carrying out this health survey successfully.
