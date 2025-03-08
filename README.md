@@ -47,5 +47,6 @@ Based on this analysis, we recommended these Procedures:
 - References - Kaggle.Com
 
 # Dashboard
-<img src=”https://github.com/user-attachments/assets/f26c0fad-38d1-477b-8535-7786b8b1054c” width=”400” height=”250” alt=”image”>
+
+  <img src=”https://github.com/user-attachments/assets/f26c0fad-38d1-477b-8535-7786b8b1054c” width=”400” height=”250” alt=”image”>
 
