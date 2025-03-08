@@ -10,7 +10,7 @@ The aim of my Analysis on this project is to analyze this fashion store's databa
 - E - Commerce Data: The primary deta set used for this survey "Retaial-SuperStore" file, contains detailed information of a store's overall actvity in the United States of America.
 
 # Tools
-The following tools helped in carrying out this health survey successfully.
+The following tools helped in carrying out this survey successfully.
 
 - Microsoft Excel - Data Cleaning, Microsoft Excel - Exploratory Data Analysis, - PowerBI Desktop - Creating Reports of the data Sets.
 
